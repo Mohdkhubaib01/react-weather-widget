@@ -93,12 +93,20 @@ You can deploy this app using:
 
 ---
 
-## 🙋‍♂️ Author
+## 🔮 Future Planning
 
-**Mohd Khubaib**  
-Bachelor of Computer Applications (BCA) — Software Engineering  
-📧 mkhubaib543@gmail.com 
-🔗 [LinkedIn]( https://www.linkedin.com/in/mohd-khubaib/) | [GitHub ](https://github.com/Mohdkhubaib01)
+- 📍 Add geolocation-based weather detection  
+- 📆 Show 7-day forecast with chart/graph  
+- 🌙 Dark and light mode toggle  
+- 🕒 Add time zone support and local time display  
+- 📱 Improve mobile UI and animations using Framer Motion  
+- 🗣️ Integrate voice search for city names  
+- 🌐 Add multi-language support  
+
+## 👨‍💻 Author
+
+Made with ❤️ by [Mohd Khubaib](https://github.com/Mohdkhubaib01)
+📧 Email: mkhubaib543@gmail.com  
 
 ---
 
